@@ -13,4 +13,7 @@ def initialize (emails (','))
   
 end
 
+def parse
+  
+
 
